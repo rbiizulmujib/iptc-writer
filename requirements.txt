@@ -1,0 +1,4 @@
+# GUI dan manipulasi metadata
+iptcinfo3
+# Pillow dipakai di bawah iptcinfo3 untuk handle gambar JPG
+Pillow
